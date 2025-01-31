@@ -1,0 +1,8 @@
+document.addEventListener("DOMContentLoaded", function(){
+    console.log("Website Loaded!");
+    document.querySelector("button").addEventListener("click",functional()
+    {
+        alert("Search feature coming soon!");
+    });
+});
+
